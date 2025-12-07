@@ -1,0 +1,13 @@
+{
+  "apiKey": "your-api-key-here",
+  "defaultTextModel": "gemini-2.0-flash",
+  "defaultImageModel": "imagen-3.0-generate-002",
+  "defaultVisionModel": "gemini-2.0-flash",
+  "maxConcurrentRequests": 10,
+  "requestTimeout": 30000,
+  "maxRetries": 3,
+  "cacheEnabled": true,
+  "cacheTTL": 3600,
+  "logLevel": "info",
+  "mockMode": false
+}
